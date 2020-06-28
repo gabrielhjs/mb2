@@ -20,3 +20,9 @@ Esse projeto é desenvolvido com as seguintes tecnologias:
 ## ⚔️ Projeto
 
 Em construção...
+
+---
+
+Desenvolvido por: Gabriel Sá
+
+---
