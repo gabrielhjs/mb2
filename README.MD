@@ -19,7 +19,7 @@ Esse projeto é desenvolvido com as seguintes tecnologias:
 
 ## ⚔️ Projeto
 
-Em construção...
+Em construção....
 
 ---
 
