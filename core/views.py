@@ -10,7 +10,8 @@ class TestIsUp(APIView):
 
     response = {
       "status": "OK",
-      "Micaelli": "A Micaelli é uma gostosa e nós amamos ela. Ass: Sá e Luis :) <3"
+      "Micaelli": "A Micaelli é uma gostosa e nós amamos ela. Ass: Sá e Luis :) <3",
+      "Luis": "O Luis tbm!",
     }
 
     return Response(response, status=200)
