@@ -1,2 +1,4 @@
-venv_mb/
+venv_mb2/
 .idea/
+.env
+db.sqlite3
