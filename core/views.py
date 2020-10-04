@@ -9,7 +9,8 @@ class TestIsUp(APIView):
   def get(request: Request):
 
     response = {
-      "status": "OK"
+      "status": "OK",
+      "Micaelli": "A Micaelli é uma gostosa e nós amamos ela. Ass: Sá e Luis :) <3"
     }
 
     return Response(response, status=200)
