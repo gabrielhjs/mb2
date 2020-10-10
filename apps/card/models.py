@@ -7,7 +7,6 @@ from apps.product.models import Product
 
 
 class Card(BaseModel):
-
   user_card_fk = models.OneToOneField(User, verbose_name=_("User"), on_delete=models.PROTECT, null=False, blank=False)
 
 
